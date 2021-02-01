@@ -10,7 +10,7 @@ This is a sample plugin for GitBook and is specially adapted for GitBook from [P
 
 *Text format uml:*
 
-<pre><code>```uml
+<pre><code>```plantuml
 @startuml
 
 	Class Stage
